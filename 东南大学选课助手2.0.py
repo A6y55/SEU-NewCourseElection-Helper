@@ -524,10 +524,10 @@ if __name__ == '__main__':
 
     # Fill in ur info before use
 
-    username = "213211914"
-    password = "17287964What"
-    elecTurn = "5"
-    class_wanted = "B5710350 [01]"
+    username = "21"
+    password = "1"
+    elecTurn = "?"
+    class_wanted = "B51]"
 
 
     error = False
